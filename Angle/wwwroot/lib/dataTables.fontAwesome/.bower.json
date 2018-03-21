@@ -1,0 +1,13 @@
+{
+  "name": "dataTables.fontAwesome",
+  "_cacheHeaders": {
+    "ETag": "W/\"12c231c-d22-5673810b2ff21-gzip\"",
+    "Last-Modified": "Mon, 12 Mar 2018 14:36:19 GMT",
+    "Content-Type": "text/css; charset=utf-8"
+  },
+  "_release": "e-tag:W/\"12c231c",
+  "main": "index.css",
+  "_source": "https://cdn.datatables.net/plug-ins/1.10.10/integration/font-awesome/dataTables.fontAwesome.css",
+  "_target": "*",
+  "_originalSource": "https://cdn.datatables.net/plug-ins/1.10.10/integration/font-awesome/dataTables.fontAwesome.css"
+}
