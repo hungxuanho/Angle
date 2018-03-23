@@ -13172,11 +13172,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hung\\source\\repos\\Angle\\netcore-jquery\\Angle\\Angle\\Angle.csproj",
+      "projectUniqueName": "C:\\Users\\Hung\\source\\repos\\Angle\\netcore-jquery\\Angle_dev\\Angle\\Angle.csproj",
       "projectName": "Angle",
-      "projectPath": "C:\\Users\\Hung\\source\\repos\\Angle\\netcore-jquery\\Angle\\Angle\\Angle.csproj",
+      "projectPath": "C:\\Users\\Hung\\source\\repos\\Angle\\netcore-jquery\\Angle_dev\\Angle\\Angle.csproj",
       "packagesPath": "C:\\Users\\Hung\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hung\\source\\repos\\Angle\\netcore-jquery\\Angle\\Angle\\obj\\",
+      "outputPath": "C:\\Users\\Hung\\source\\repos\\Angle\\netcore-jquery\\Angle_dev\\Angle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
