@@ -22,3 +22,15 @@ C:\Users\Hung\source\repos\Angle\netcore-jquery\Angle_dev\Angle\obj\Debug\netcor
 C:\Users\Hung\source\repos\Angle\netcore-jquery\Angle_dev\Angle\obj\Debug\netcoreapp2.0\Angle.AssemblyInfo.cs
 C:\Users\Hung\source\repos\Angle\netcore-jquery\Angle_dev\Angle\obj\Debug\netcoreapp2.0\Angle.dll
 C:\Users\Hung\source\repos\Angle\netcore-jquery\Angle_dev\Angle\obj\Debug\netcoreapp2.0\Angle.pdb
+C:\Users\Hung\sources\repos\Angle_dev\Angle\bin\Debug\netcoreapp2.0\Angle.deps.json
+C:\Users\Hung\sources\repos\Angle_dev\Angle\bin\Debug\netcoreapp2.0\Angle.runtimeconfig.json
+C:\Users\Hung\sources\repos\Angle_dev\Angle\bin\Debug\netcoreapp2.0\Angle.runtimeconfig.dev.json
+C:\Users\Hung\sources\repos\Angle_dev\Angle\bin\Debug\netcoreapp2.0\Angle.dll
+C:\Users\Hung\sources\repos\Angle_dev\Angle\bin\Debug\netcoreapp2.0\Angle.pdb
+C:\Users\Hung\sources\repos\Angle_dev\Angle\obj\Debug\netcoreapp2.0\Angle.csprojResolveAssemblyReference.cache
+C:\Users\Hung\sources\repos\Angle_dev\Angle\obj\Debug\netcoreapp2.0\Angle.csproj.CoreCompileInputs.cache
+C:\Users\Hung\sources\repos\Angle_dev\Angle\obj\Debug\netcoreapp2.0\Angle.AssemblyInfoInputs.cache
+C:\Users\Hung\sources\repos\Angle_dev\Angle\obj\Debug\netcoreapp2.0\Angle.AssemblyInfo.cs
+C:\Users\Hung\sources\repos\Angle_dev\Angle\obj\Debug\netcoreapp2.0\Angle.dll
+C:\Users\Hung\sources\repos\Angle_dev\Angle\obj\Debug\netcoreapp2.0\Angle.pdb
+C:\Users\Hung\sources\repos\Angle_dev\Angle\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs

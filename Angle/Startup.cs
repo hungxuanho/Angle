@@ -7,17 +7,24 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
+using Microsoft.Owin;
+using Owin;
 
 namespace Angle
 {
-    public class Startup
+    public partial class Startup
     {
         public Startup(IConfiguration configuration)
         {
-            Configuration = configuration;
+            Configuration_Angle = configuration;
         }
 
-        public IConfiguration Configuration { get; }
+        public IConfiguration Configuration_Angle { get; }
+
+        public void Configuration(IAppBuilder app)
+        {
+            ConfigureAuth(app);
+        }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
